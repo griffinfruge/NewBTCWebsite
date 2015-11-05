@@ -1,0 +1,2 @@
+[29-Oct-2015 20:28:12 UTC] PHP Fatal error:  Call to a member function __get() on a non-object in /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/sd-donations/includes/class-campaign.php on line 29
+[03-Nov-2015 07:47:53 UTC] PHP Parse error:  syntax error, unexpected '1273' (T_LNUMBER) in /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/themes/helpinghands/footer.php on line 35

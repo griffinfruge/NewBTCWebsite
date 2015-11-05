@@ -1,0 +1,120 @@
+[Nov 04 2015 06:07:34] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-includes/class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 05 2015 00:45:03] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-includes/class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 05 2015 00:45:05] ERROR_HANDLER 
+Number:  2
+Message: include(/home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css/custom-css.php): failed to open stream: No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css.php
+Line:    14
+-------------------------------------------- 
+[Nov 05 2015 00:45:05] ERROR_HANDLER 
+Number:  2
+Message: include(/home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css/custom-css.php): failed to open stream: No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css.php
+Line:    14
+-------------------------------------------- 
+[Nov 05 2015 00:45:05] ERROR_HANDLER 
+Number:  2
+Message: include(): Failed opening '/home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css/custom-css.php' for inclusion (include_path='.:/opt/php54/lib/php')
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/custom-css.php
+Line:    14
+-------------------------------------------- 
+[Nov 05 2015 00:45:05] ERROR_HANDLER 
+Number:  2
+Message: require_once(/home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/modules/module-extras.php): failed to open stream: No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/class.jetpack.php
+Line:    1651
+-------------------------------------------- 
+[Nov 05 2015 00:45:05] ERROR_HANDLER 
+Number:  2
+Message: require_once(/home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/class.jetpack-ixr-client.php): failed to open stream: No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/jetpack/class.jetpack.php
+Line:    4902
+-------------------------------------------- 
+[Nov 05 2015 00:45:16] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-includes/class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 05 2015 00:45:19] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-includes/class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 05 2015 00:59:29] ERROR_HANDLER 
+Number:  2
+Message: chmod(): No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    321
+-------------------------------------------- 
+[Nov 05 2015 00:59:55] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    312
+-------------------------------------------- 
+[Nov 05 2015 00:59:55] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    317
+-------------------------------------------- 
+[Nov 05 2015 00:59:55] ERROR_HANDLER 
+Number:  2
+Message: chmod(): No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    321
+-------------------------------------------- 
+[Nov 05 2015 01:02:41] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    312
+-------------------------------------------- 
+[Nov 05 2015 01:02:41] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    317
+-------------------------------------------- 
+[Nov 05 2015 01:02:41] ERROR_HANDLER 
+Number:  2
+Message: chmod(): No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    321
+-------------------------------------------- 
+[Nov 05 2015 01:02:43] ERROR_HANDLER 
+Number:  2
+Message: array_count_values(): Can only count STRING and INTEGER values!
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/package.php
+Line:    137
+-------------------------------------------- 
+[Nov 05 2015 01:03:45] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    312
+-------------------------------------------- 
+[Nov 05 2015 01:03:45] ERROR_HANDLER 
+Number:  2
+Message: mkdir(): File exists
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    317
+-------------------------------------------- 
+[Nov 05 2015 01:03:45] ERROR_HANDLER 
+Number:  2
+Message: chmod(): No such file or directory
+File:    /home1/bluwebz/public_html/griffin/customer/griffin/wp-content/plugins/duplicator/classes/utility.php
+Line:    321
+-------------------------------------------- 

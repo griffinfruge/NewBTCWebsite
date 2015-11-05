@@ -1,0 +1,598 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "All-in-One WP Migration"
+msgstr ""
+
+#. Short description.
+msgid "All-in-One WP Migration is the only tool that you will ever need to migrate a WordPress site."
+msgstr ""
+
+#. Screenshot description.
+msgid "Mobile Export page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Mobile Import page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Plugin Menu"
+msgstr ""
+
+#. Found in description header.
+msgid "Works on all hosting providers"
+msgstr ""
+
+#. Found in description header.
+msgid "Bypass all upload size restriction"
+msgstr ""
+
+#. Found in description header.
+msgid "0 Dependencies"
+msgstr ""
+
+#. Found in description header.
+msgid "Support for MySQL, PDO, MySQLi"
+msgstr ""
+
+#. Found in description header.
+msgid "Support WordPress v3.3 up to v4.3"
+msgstr ""
+
+#. Found in description header.
+msgid "Migrate WordPress to most popular cloud services using our completely new extensions"
+msgstr ""
+
+#. Found in description header.
+msgid "Contact us"
+msgstr ""
+
+#. Found in description list item.
+msgid "The plugin does not depend on any extensions, making it compatible with all PHP hosting providers."
+msgstr ""
+
+#. Found in description list item.
+msgid "The plugin exports and imports data in time chunks of 3 seconds each, which keeps the plugin below the max execution time that most providers set to 30 seconds."
+msgstr ""
+
+#. Found in description list item.
+msgid "We have tested the plugin on the major Linux distributions, Mac OS X, and Microsoft Windows."
+msgstr ""
+
+#. Found in description list item.
+msgid "We use chunks to import your data and that way we bypass any webserver upload size restrictions up to <strong>512MB</strong> - commercial version supports up to <strong>5GB</strong>."
+msgstr ""
+
+#. Found in description list item.
+msgid "The plugin does not require any php extensions and can work with PHP v5.2."
+msgstr ""
+
+#. Found in description list item.
+msgid "No matter what php mysql driver your webserver ships with, we support it."
+msgstr ""
+
+#. Found in description list item.
+msgid "We tested every WordPress version from <code>3.3</code> up to <code>4.3</code>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/unlimited-extension\">Unlimited</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/dropbox-extension\">Dropbox</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/multisite-extension\">Multisite</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/ftp-extension\">FTP</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/google-drive-extension\">Google Drive</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/amazon-s3-extension\">Amazon S3</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/products/url-extension\">URL</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "And many more to come"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/help\">Get free help from us here</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com/help\">Report a bug or request a feature</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://servmask.com\">Find out more about us</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"The plugin allows you to export your database, media files, plugins, and themes.\n"
+"You can apply unlimited find/replace operations on your database and the plugin will also fix any serialization problems that occur during find/replace operations."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All in One WP Plugin is the first plugin to offer true mobile experience on WordPress versions 3.3 and up."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"[youtube http://www.youtube.com/watch?v=BpWxCeUWBOk]\n"
+"[youtube http://www.youtube.com/watch?v=mRp7qTFYKgs]"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>all-in-one-wp-migration</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the All in One WP Migration plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the plugin by going to the <code>Site Migration</code> menu that appears in your admin menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix an issue when the plugin was getting stuck on \"Done creating an empty archive\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix an issue when the plugin was getting stuck during import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add URL extension support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Filter \"mu-plugins\" directory if \"Do not export plugins (files)\" is checked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix utf8mb4 issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix translation issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix .wpress.bin format"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add port to the host header on export/import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rename .wpress file to .wpress.bin file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix file permission checks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix could not resolve domain name on export/import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix undefined method on Backups page if PHP version is &lt; 5.3.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add IPv6 support on export/import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed undefined constant warnings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Exclude core plugin and extensions on export if they have custom names"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made export/import processes more reliable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow the plugin to work with non-default name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preserve backups during plugin updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved find &amp; replace functionality on the serialized data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed backup file name restrictions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when retrieving export/import status progress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when database encoding utf8mb4_unicode_ci is not available"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed plugin incompatibility during export/import that was reporting that the process could not be started"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added username/password settings for WordPress sites behind HTTP basic authentication"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when exporting/importing without public DNS record"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when exporting/importing media files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added advanced settings on export page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed secret key issue on upgrade of the plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added export to File, <a href=\"https://servmask.com/products/dropbox-extension\">Dropbox</a>, <a href=\"https://servmask.com/products/amazon-s3-extension\">Amazon S3</a>, <a href=\"https://servmask.com/products/google-drive-extension\">Google Drive</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added import from File, <a href=\"https://servmask.com/products/dropbox-extension\">Dropbox</a>, <a href=\"https://servmask.com/products/amazon-s3-extension\">Amazon S3</a>, <a href=\"https://servmask.com/products/google-drive-extension\">Google Drive</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented our own archiving format that reduces export and import by a factor of 10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "One-click export with the new simplified export page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved upload functionality with auto-recognizing chunk size on import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New <strong>Backups</strong> page for storing all WordPress site exports"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Easy restore WordPress site from <strong>Backups</strong> page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Monitoring availability of the disk space on the server"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Both export and import happen in time chunks of 3 seconds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin works behind HTTP basic authentication"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated readme to reflect that the plugin is not multisite compatible"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a security issue while importing site using regular users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WordPress v4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when all user permissions are lost on import"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for migration of WordPress in Network Mode (Multi Site)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New improved UI and UX"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New improved language translations on the menu items and help texts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better error handling and notifications"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while exporting comments and associated comments meta data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while using find/replace functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug with storage directory permissions and search indexation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added PHP &lt;= v5.2.7 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with earlier versions of PHP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New improved design on the export/import page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option for gathering user experience statistics"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a message box with important notifications about the plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while exporting database with multiple WordPress sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while exporting database with table constraints"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug with auto recognizing zip archiver"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"Get Support\" link in the plugin list page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed \"All in One WP Migration Beta\" link from the readme file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for dynamically recognizing Site URL and Home URL on the import page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when maximum uploaded size is exceeded"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while exporting big database tables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for automatically switching database adapters for better performance and optimization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while using host:port syntax with MySQL PDO"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug while exporting WordPress plugins directory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added storage layer to avoid permission issues with OS's directory used for temporary storage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional checks to verify the consistency of the imported archive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused the database to be exported without data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unused variables from package.json file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional check for directory's permissions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional check for output buffering when exporting a file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when the archive was exported or imported with old version of Zlib library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug with permalinks and flushing the rules"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for additional errors and exceptions handling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for reporting a problem in better and easier way"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved support process in ZenDesk system for faster response time"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed typos on the import page. Thanks to Terry Heenan"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Twitter and Facebook share buttons to the sidebar on import and export pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when the user was unable to import site archive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Optimized and speeded up import process"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for mysql connection to happen over sockets or TCP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Windows OS and fully tested the plugin on IIS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for limited memory_limit - 1MB - The plugin now requires only 1MB to operate properly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for multisite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Used mysql_unbuffered_query instead of mysql_query to overcome any memory problems"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a deprecated warning for mysql_pconnect when php 5.5 and above is used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed memory_limit problem with PCLZIP library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when the archive is exported with zero size when using PCLZIP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug when the archive was exported broken on some servers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a deprecated usage of preg_replace \\e in php v5.5 and above"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue when HTTP Error was shown on some hosts after import, credit to Michael Simon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue when exporting databases with different prefix than wp_, credit to najtrox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue when PDO is avalable but mysql driver for PDO is not, credit to Jaydesain69"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deleted a plugin specific option when uninstalling the plugin (clean after itself)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support is done via Zendesk"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included WP Version and Plugin version in the feedback form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased upload limit of files from 128MB to 512MB"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Used ZipArchive with fallback to PclZip (a few users notified us that they don’t have ZipArchive enabled on their servers)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Used PDO with fallback to mysql (a few users notified us that they dont have PDO enabled on their servers, mysql is deprecated as of PHP v5.5 but we are supporting PHP v5.2.17)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Supported PHP v5.2.17 and WordPress v3.3 and above"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug during export that causes plugins to not be exported on some hosts (the problem that you are experiencing)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Importing files using chunks to overcome any webserver upload size restriction"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where HTTP code error was shown to some users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Export database as SQL file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Export media files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Export themes files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Export installed plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Unlimited find/replace actions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to exclude spam comments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to apply find/replace to GUIDs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to exclude post revisions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to exclude tables data"
+msgstr ""
